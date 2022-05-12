@@ -1,0 +1,5 @@
+This repo was part of the Spring Framework 5: Beginner to Guru course on Udemy. I forked a 
+repo offered as part of the course.
+
+As of 05/12/2002, the code is this repo is up to date with the completion of Assignment 3, 
+which is between chapters 22 and 23 of the course.
